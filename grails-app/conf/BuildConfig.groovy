@@ -31,7 +31,7 @@ grails.project.dependency.resolution = {
 		inherits true
 		grailsHome()
         grailsCentral()
-		grailsRepo "http://grails.org/plugins"
+		//grailsRepo "http://grails.org/plugins" // problem with grails 2.3.0
 		grailsPlugins()
         mavenCentral()
         mavenLocal()

@@ -19,7 +19,7 @@ package grails.plugin.formfields
 import groovy.xml.MarkupBuilder
 import org.apache.commons.lang.StringUtils
 import org.codehaus.groovy.grails.plugins.support.aware.GrailsApplicationAware
-import org.codehaus.groovy.grails.scaffolding.DomainClassPropertyComparator
+import org.codehaus.groovy.grails.validation.DomainClassPropertyComparator
 import org.codehaus.groovy.grails.web.pages.GroovyPage
 import org.codehaus.groovy.grails.commons.*
 
